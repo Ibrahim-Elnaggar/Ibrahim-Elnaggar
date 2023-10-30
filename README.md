@@ -2,7 +2,6 @@
 <h1 align="center">Ibrahim Elnaggar</h1>
 <p align="center">Iam Front-End developer</p>
 🌼 UI/UX
-
 - Prototyping 
 - User Journey Map
 - Wireframing
@@ -21,8 +20,7 @@
 - Persona
 
 
- 🌼 Features frontend
- 
+🌼 Features frontend
 - HTML/HTML5
 - CSS/CSS3
 - Bootstrap
